@@ -6,8 +6,7 @@
       "type": "string"
     },
     "telefone": {
-      "type": "string",
-      "sensitive": true
+      "type": "string"
     },
     "endereço": {
       "type": "string",
