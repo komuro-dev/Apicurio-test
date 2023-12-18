@@ -1,0 +1,2 @@
+# Apicurio-test
+schema teste
